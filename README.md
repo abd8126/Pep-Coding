@@ -5,5 +5,5 @@ Pillars of Java:
 3. Polymorphism
 4. Astraction
 5. Inheritace
-6. 
+6. Encapsulation
 30 Days of Java with Code
