@@ -7,7 +7,8 @@ class ques2{
 class xyz extends ques2{
     public void show()
     {
-        System.out.println("2");   
+        System.out.println("2");  
+        //Class names, 'xyz', are only accepted if annotation processing is explicitly requested 
     }
         public static void main(String[] args) {
             ques1 t = new ques1();

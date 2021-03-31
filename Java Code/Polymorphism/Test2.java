@@ -1,4 +1,4 @@
-class Test2{
+class ques2{
     void show(String a, int a)//same argunmet in same order
     //void show(int a)//no.ofargunment same
     {
@@ -20,3 +20,4 @@ class xyz extends Test2{
         x.show();
     }
 }
+// Metod Ovrriding allows a subclass
