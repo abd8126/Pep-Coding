@@ -7,6 +7,7 @@
            For each input value of n, print "prime" if the number is prime and "not prime" otherwise.
       
     Ques2: You are required to print a 'z' of size 5 using '*'.
+
     Ques3: 1. You are given as input marks of a student.
            2. Display an appropriate message based on the following rules:
                2.1 for marks above 90, print excellent.
