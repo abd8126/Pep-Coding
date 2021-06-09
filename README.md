@@ -22,3 +22,7 @@
            2. Take as input "low", the lower limit of range.
            3. Take as input "high", the higher limit of range.
            4. For the range print all the primes numbers between low and high (both included).
+
+    Ques6: 1. You've to print first n fibonacci numbers.
+           2. Take as input "n", the count of fibonacci numbers to print.
+           3. Print first n fibonacci numbers.
