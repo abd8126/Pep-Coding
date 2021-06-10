@@ -26,3 +26,10 @@
     Ques6: 1. You've to print first n fibonacci numbers.
            2. Take as input "n", the count of fibonacci numbers to print.
            3. Print first n fibonacci numbers.
+    Ques7: 1. You've to count the number of digits in a number.
+           2. Take as input "n", the number for which the digits has to be counted.
+           3. Print the digits in that number.
+
+    Ques8: 1. You've to display the digits of a number.
+           2. Take as input "n", the number for which digits have to be displayed.
+           3. Print the digits of the number line-wise.
